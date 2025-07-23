@@ -7,7 +7,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "pyscf>=2.9.0",
     "python-dotenv>=1.1.1",
-    "qc-grader[jupyter,qiskit]",
+    "qc-grader[jupyter,qiskit]>=0.22.12",
     "qiskit-addon-sqd>=0.11.0",
     "qiskit-ibm-runtime>=0.40.1",
     "qiskit[visualization]>=2.1.0",
